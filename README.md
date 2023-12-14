@@ -10,4 +10,4 @@ The Java solution involves implementing a backtracking algorithm to explore poss
 
 The code can be tested using the test class "NQueensSolverTest" testing the N value of 1 - 10.
 
-
+![Chessboard](https://static.wikia.nocookie.net/chess-fanon/images/2/20/Eightqueens.png/revision/latest?cb=20230428221007)
